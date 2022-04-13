@@ -1,5 +1,5 @@
 # summarization_code
 
 Data 이용
-- https://www.kaggle.com/datasets/pariza/bbc-news-summary
-- CNN/DM dataset
+- BBC News : https://www.kaggle.com/datasets/pariza/bbc-news-summary
+- CNN/DM dataset : https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
